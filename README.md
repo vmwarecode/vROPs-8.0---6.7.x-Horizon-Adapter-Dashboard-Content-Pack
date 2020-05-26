@@ -1,1 +1,0 @@
-# vROPs-8.0---6.7.x-Horizon-Adapter-Dashboard-Content-Pack
